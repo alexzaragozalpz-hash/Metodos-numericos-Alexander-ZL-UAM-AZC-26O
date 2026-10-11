@@ -18,19 +18,23 @@ Son algoritmos matemáticos usados para calcular resultados de operaciones o ecu
 >Aunque existen muchos tipos de métodos numéricos, éstos comparten una característica común: invariablemente requieren de un buen número de tediosos cálculos aritméticos. No es raro que con el desarrollo de computadoras digitales eficientes y rápidas, el papel de los métodos numéricos en la solución de problemas en ingeniería haya aumentado de forma considerable en los últimos años. (p. 3)
 De lo anterior se puede interpretar que el uso de computo es el más recurrido para trabajar con métodos númericos, debido a la rápidez de cálculo de numerosas operaciones lógicas y repetitivas en comparación a la humana.
 
-### 3. Capturas de entorno contenido
-1.- Docker compose up -d --build terminado
+### Capturas de entorno contenido
+##### 1.- Docker compose up -d --build terminado
 ![Docker compose up -d --build terminado](image.png)
-2.- Docker compose ps con la columna STATUS en «Up».
-![docker compose ps con la columna STATUS en «Up».](image-1.png)
-3.- Versiones
-![versiones](image-2.png)
-4.- Docker online
-![Docker online](image-3.png)
-5.- Programas corriendo
-![Programas corriendo](image-4.png)
 
-### 4. Programas 
+##### 2.- Docker compose ps con la columna STATUS en «Up».
+![docker compose ps con la columna STATUS en «Up».](image-1.png)
+
+##### 3.- Versiones
+![versiones](image-2.png)
+
+##### 4.- Docker online
+![Docker online](image-3.png)
+
+##### 5.- Programas compilados
+![Programas compilados](image-4.png)
+
+### Programas 
 1.- Suma de dos números
 ```
 #include<stdio.h>
@@ -95,3 +99,5 @@ int main()
     printf("Calculadora apagada");
 }
 ```
+## Bibliografia 
+Chapra, S. C., & Canale, R. P. (2015). Métodos numéricos para ingenieros (7.ª ed.). McGraw-Hill Education.
