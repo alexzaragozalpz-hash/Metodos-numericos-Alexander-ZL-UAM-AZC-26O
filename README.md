@@ -18,5 +18,5 @@ Son algoritmos matemáticos usados para calcular resultados de operaciones o ecu
 >Aunque existen muchos tipos de métodos numéricos, éstos comparten una característica común: invariablemente requieren de un buen número de tediosos cálculos aritméticos. No es raro que con el desarrollo de computadoras digitales eficientes y rápidas, el papel de los métodos numéricos en la solución de problemas en ingeniería haya aumentado de forma considerable en los últimos años. (p. 3)
 De lo anterior se puede interpretar que el uso de computo es el más recurrido para trabajar con métodos númericos, debido a la rápidez de cálculo de numerosas operaciones lógicas y repetitivas en comparación a la humana.
 
-### Imagen
-![hey](image-2.png)
+### 3. Capturas de entorno contenido
+![Docker compose up -d --build terminado](image.png)
