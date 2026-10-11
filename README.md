@@ -19,4 +19,79 @@ Son algoritmos matemáticos usados para calcular resultados de operaciones o ecu
 De lo anterior se puede interpretar que el uso de computo es el más recurrido para trabajar con métodos númericos, debido a la rápidez de cálculo de numerosas operaciones lógicas y repetitivas en comparación a la humana.
 
 ### 3. Capturas de entorno contenido
+1.- Docker compose up -d --build terminado
 ![Docker compose up -d --build terminado](image.png)
+2.- Docker compose ps con la columna STATUS en «Up».
+![docker compose ps con la columna STATUS en «Up».](image-1.png)
+3.- Versiones
+![versiones](image-2.png)
+4.- Docker online
+![Docker online](image-3.png)
+5.- Programas corriendo
+![Programas corriendo](image-4.png)
+
+### 4. Programas 
+1.- Suma de dos números
+```
+#include<stdio.h>
+int main()
+{
+    int a,b;
+    printf("Valor de A: ");
+    scanf("%i",&a);
+    printf("\nValor de B: ");
+    scanf("%i",&b);
+    int sum=a+b;
+    printf("\nA+B= %.17i\n", sum);
+    return 0;
+}
+```
+2.- Calculadora simple
+```
+#include<stdio.h>
+int main()
+{
+    float c,d;
+    int e=0;
+
+    while (e!=5)
+    {
+        printf("Valor de C: ");
+        scanf("%f",&c);
+        printf("Valor de D: ");
+        scanf("%f",&d);
+        printf("Elija una operacion: \n");
+        printf("[1] C+D\n");
+        printf("[2] C-D\n");
+        printf("[3] C*D\n");
+        printf("[4] C/D\n");
+        printf("[5] Salir\n");
+        scanf("%d",&e);
+        float sum=c+d,rest=c-d,mult=c*d,div=c/d;
+        if (e==1)
+        {
+            printf("C+D = %.1f\n",sum);
+        }
+        else if (e==2)
+        {
+            printf("C-D = %.1f\n",rest);
+        }
+        else if (e==3)
+        {
+            printf("C*D = %.1f\n",mult);
+        }
+        else if (e==4)
+        {
+            if (d!=0)
+            {
+                printf("C/D = %.1f\n",div);
+            }
+            else
+            {
+                printf("No se puede dividir entre cero\n");
+            }
+        }
+    }
+    printf("Calculadora apagada");
+}
+```
