@@ -6,7 +6,7 @@
 | | |
 |---|---|
 | Equipo | |
-| Integrantes (nombre, matrícula y licenciatura) | |
+| Integrantes (Zaragoza López Alexander, 2173037782, ingeniería mecánica) | |
 | Repositorio de la Tarea 1 de | |
 | Fecha | |
 
