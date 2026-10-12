@@ -26,14 +26,16 @@ Tabla de la lámina 25:
 
 ¿Coinciden con la lámina 25 de la unidad I?
 
+Las tablas mostradas por los programas compilados son idénticas pero se observa que sifras significativas en la tabla de la lámina 25 son menores a los presentados por los programas, por lo que se redondean los valores esperados, además, se observa que los programas solo muestran 6 columnas de datos mientras que la lámina muestra una fila extra.
+
 ## 2. Las dos líneas que completamos en `maclaurin.c`
 
 ```c
-/* COMPLETAR 1 */
-/* COMPLETAR 2 */
+/* termino = (termino*X)/n; */
+/* ea = fabs((aprox - anterior) / aprox) * 100.0; */
 ```
 
-![C](img/03-c.png)
+![C](image-3.png)
 
 ## 3. Más cifras significativas
 
