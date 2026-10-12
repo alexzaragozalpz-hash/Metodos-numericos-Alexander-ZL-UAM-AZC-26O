@@ -8,12 +8,12 @@
 | Equipo: Trabajo individual| |
 | Integrantes: Zaragoza López Alexander, 2173037782, ingeniería mecánica | |
 | Repositorio de la Tarea 1 de [Alexaner Zaragoza López](https://github.com/alexzaragozalpz-hash/Metodos-numericos-Alexander-ZL-UAM-AZC-26O)| |
-| Fecha | |
+| Fecha: 12 de octubre de 2026| |
 
 ## 1. Octave y Python
 
-![Octave](img/01-octave.png)
-![Python](img/02-python.png)
+![Octave](image.png)
+![Python](image-1.png)
 
 ¿Coinciden con la lámina 25 de la unidad I?
 
