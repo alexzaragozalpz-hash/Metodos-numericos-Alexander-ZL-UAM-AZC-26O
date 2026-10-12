@@ -5,9 +5,9 @@
 
 | | |
 |---|---|
-| Equipo | |
-| Integrantes (Zaragoza López Alexander, 2173037782, ingeniería mecánica) | |
-| Repositorio de la Tarea 1 de | |
+| Equipo: Trabajo individual| |
+| Integrantes: Zaragoza López Alexander, 2173037782, ingeniería mecánica | |
+| Repositorio de la Tarea 1 de [Alexaner Zaragoza López](https://github.com/alexzaragozalpz-hash/Metodos-numericos-Alexander-ZL-UAM-AZC-26O)| |
 | Fecha | |
 
 ## 1. Octave y Python
