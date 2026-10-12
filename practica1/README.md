@@ -12,8 +12,12 @@
 
 ## 1. Octave y Python
 
+Compiación en Octave:
 ![Octave](image.png)
+Compilación en Python:
 ![Python](image-1.png)
+Tabla de la lámina 25:
+![Lámina 25](image-2.png)
 
 ¿Coinciden con la lámina 25 de la unidad I?
 
